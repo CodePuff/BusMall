@@ -1,0 +1,28 @@
+*{
+  color: gray;
+  font-family: 'helvetica';
+  outline: 2px dashed blue;
+}
+
+img {
+  width: 150px;
+  margin: 25px;
+}
+
+#left-pic {
+  border: 2px solid green;
+  height: 75 px;
+  width: auto;
+}
+
+#center-pic {
+  border: 2px solid green;
+  height: 75 px;
+  width: auto;
+}
+
+#right-pic {
+  border: 2px solid green;
+  height: 75 px;
+  width: auto;
+}
